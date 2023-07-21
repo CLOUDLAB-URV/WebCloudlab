@@ -12,7 +12,7 @@ keep_files:
   - ".gitignore"
 
 # Site settings
-title: Airspace
+title: CloudLab - URV
 subtitle: "A free HTML5 agency template"
 baseurl: "/WebCloudlab"
 url: http://cloudlab-urv.github.io
