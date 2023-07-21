@@ -13,7 +13,7 @@ keep_files:
 
 # Site settings
 title: CloudLab - URV
-subtitle: "A free HTML5 agency template"
+subtitle: "Cloud and Distributed Systems Lab (CLOUDLAB) research group "
 baseurl: "/WebCloudlab"
 url: http://cloudlab-urv.github.io
 cover: "/assets/cover.png"
