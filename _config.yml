@@ -17,7 +17,7 @@ subtitle: "Cloud and Distributed Systems Lab (CLOUDLAB) research group "
 baseurl: "/WebCloudlab"
 url: http://cloudlab-urv.github.io
 cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+logo: "/img/Logo_CloudLab.png"
 
 # Build settings
 markdown: kramdown
