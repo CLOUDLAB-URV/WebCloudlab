@@ -7,7 +7,5 @@ Three are led by the CloudLab research group, coordinated by the researcher from
 
 Read the [URV's news][urv-news] for more information.
 
-Check out the current CloudLab's projects:
-
 
 [urv-news]: https://diaridigital.urv.cat/en/urv-obtains-two-million-euros-promote-four-international-projects-cloud-computing-artificial-intelligence/
