@@ -2,7 +2,6 @@
 layout: post
 title: "This post demonstrates post content styles"
 author: "Bart Simpson"
-thumbnail: img\members\aitor_arjona.png
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
@@ -86,4 +85,4 @@ Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing 
 
 Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
 
-![Logo](img/Logo_CloudLab.png)
+![Logo](/img/Logo_CloudLab.png)
