@@ -29,6 +29,18 @@
   color: #333;
 }
 
+.post-publications {
+  padding: 40px;
+  width: 100%;
+  min-height: 150px;
+  background-color: white;
+  border-bottom: 1px dotted #ddd;
+}
+
+.post-publications a:link, .post-publications a:visited {
+  color: #126789;
+}
+
 .post-area a:hover {
   color: #0D0017;
 }
