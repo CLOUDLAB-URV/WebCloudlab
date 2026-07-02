@@ -24,18 +24,6 @@
   border-bottom: 1px dotted #ddd;
 }
 
-.post-publication {
-  padding: 40px;
-  width: 100%;
-  min-height: 150px;
-  background-color: white;
-  border-bottom: 1px dotted #ddd;
-}
-
-.post-publication a:link, .post-area a:visited {
-  color: #126789;
-}
-
 .post-area a:link, .post-area a:visited {
   font-size: 30px;
   color: #333;
